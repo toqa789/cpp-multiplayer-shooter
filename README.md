@@ -2,7 +2,7 @@
 
 A multiplayer shooter game built in **C++** using a client-server architecture. The project started as a console-based multiplayer game and was later extended with a graphical client using **SFML**.
 
-![Game Screenshot](game-screenshot.png)
+![Game Screenshot](shooter.jpeg)
 
 ## Features
 
